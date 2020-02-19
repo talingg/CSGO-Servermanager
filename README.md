@@ -3,11 +3,11 @@ This is a simple GUI to manage a running CSGO Server via RCON. I created this pr
 
 
 ## Credit
-The communication is based on the https://github.com/Kronos666/rkon-core Repository from Kronos666.
+The communication is based on the https://github.com/Kronos666/rkon-core Repository from @Kronos666.
 
 ## Usage
 Under Windows the Jar file can be called with the following command (for example with a Bat file):
-```java
+```batch
 @echo off
 start javaw -jar CSGO-GUI-1.0-SNAPSHOTq.jar
 exit
